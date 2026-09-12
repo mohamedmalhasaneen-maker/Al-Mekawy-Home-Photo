@@ -1,0 +1,8 @@
+{
+  "name": "Al-Mekawy Home Upvc Photo",
+  "description": "كتالوج تفاعلي فاخر وموقع تعريفي لأبواب وشبابيك الـ PVC بقطاعات جرارة ومفصلية ألمانية وتركية بجودة عالية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
